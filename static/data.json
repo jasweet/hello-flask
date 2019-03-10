@@ -1,0 +1,13 @@
+{
+    "01": {
+        "note" : "This data is very simple because we're demonstrating only the mechanism."
+    },
+    "users": [
+        {
+            "name": "Jay",
+            "height": "6' 0",
+            "weight": "185 lbs",
+            "kids": 3
+        }
+    ]
+}
